@@ -8,3 +8,6 @@ Click in the suspicious login ticket
 In the respnese box, change it to the last message and type in your response.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/d181c704043c3e8db7cd7449d66ec0bb3a07dafa/Screenshot%202026-08-18%20203041.png)
 Click on post reply
+
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/2316170b910427e30c2c437a8504680a81e2e6ca/Screenshot%202026-08-18%20203535.png)
+Change the ticket status to close and click post reply
