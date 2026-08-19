@@ -6,3 +6,5 @@ Login your SOC L2 account
 Click in the suspicious login ticket
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/9ac431edad9974d73343d6c4944d460100680a30/Screenshot%202026-08-18%20203003.png)
 In the respnese box, change it to the last message and type in your response.
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/d181c704043c3e8db7cd7449d66ec0bb3a07dafa/Screenshot%202026-08-18%20203041.png)
+Click on post reply
