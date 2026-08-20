@@ -7,7 +7,7 @@ Access the Suspicious Login ticket to review the alert details, investigation hi
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/9ac431edad9974d73343d6c4944d460100680a30/Screenshot%202026-08-18%20203003.png)
 Scroll down until you locate the Post Reply section. In the response box, select the most recent message, then enter and submit your response.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/d181c704043c3e8db7cd7449d66ec0bb3a07dafa/Screenshot%202026-08-18%20203041.png)
-Scroll down and click “Post Reply.
+Scroll down and click Post Reply.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/ea2cb9efd12bf4e9ba52b03c1ee2466278a3bb32/Screenshot%202026-08-18%20203322.png)
 Click Internal Note, enter a descriptive note title (optional), and document your investigation findings, response actions, remediation steps, and final resolution in a clear and concise manner 
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Resolving-a-Suspicious-Login-As-a-SOC-L2/blob/2316170b910427e30c2c437a8504680a81e2e6ca/Screenshot%202026-08-18%20203535.png)
